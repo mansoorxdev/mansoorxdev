@@ -23,38 +23,36 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack    
 
 ### 🖥️ Frontend
-- React.js  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
 
 ### 🔧 Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Microservices  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+  🔹 REST APIs & Microservices Architecture
+</p>
 
 ### 🗄️ Database
-- MongoDB  
-- MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### ☁️ DevOps & Cloud
-- AWS (EC2, S3, VPC, Lambda)  
-- Docker  
-- Kubernetes  
-- Jenkins  
-- GitHub Actions  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
+</p>
 
 ### 🧰 Tools
-- Git  
-- Linux  
-- Postman  
-- VS Code  
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman" />
+</p>
 
 ## 📊 GitHub Analytics  
 
