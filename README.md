@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Skills Visualization  
+## 🧠 Skills Visualization   
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,aws,docker,kubernetes,jenkins,git,linux,js,html,css" />
